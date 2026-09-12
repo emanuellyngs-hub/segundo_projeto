@@ -1,10 +1,10 @@
-# Segundo Projeto - Sistema de Desconto Progressivo
+# 💰Segundo Projeto - Sistema de Desconto Progressivo
 
-# Descrição
+# 👩🏻‍🏫Descrição
 
 Este programa em **Python** foi desenvolvido para uma loja online. Esse programa irá calcular o desconto de acordo com o valor total da compra.
 
-# Objetivo
+# 🎯Objetivo
 
 Criar um programa que: 
 - Solicite o valor total da compra;
@@ -12,7 +12,7 @@ Criar um programa que:
 - Calcular o valor do desconto;
 - Mostrar o valor final que o cliente deverá pagar.
 
-# Regras de Desconto
+# 📋Regras de Desconto
 
 | Valor da compra | Desconto |
 |---|---:|
@@ -20,13 +20,12 @@ Criar um programa que:
 | De R$ 200,00 até R$ 299,99 | 10% |
 | Apartir de R$ 300,00 | 15% |
 
-# Tecnologias Utilizadas
-
+# 💻Tecnologias Utilizadas
 <div sytle="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicon/icons/python/python-original.svg">
     <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicon/icons/github/github-original.svg">
 
-# Conceitos Utilizados
+# 🧠Conceitos Utilizados
 
 - Entrada de dados com *input()*
 - Conversão de valores com *floata()*
@@ -35,17 +34,17 @@ Criar um programa que:
 - Exibição de resultados com *print()*
 - Comentários no código
 
-# Como Funciona
+# ⚙️Como Funciona
 
 O programa solicita o valor total da compra. Depois, verifica em qual faixa de preçoo valor se encontra e define o percentual de desconto e o vlaor final da compra.
 
-# Resultado
+# 🖼️Resultado
 
 O programa apresenta:
 - Percentual de desconto aplicado;
 - Valor do desconto;
 - Valor total a pagar após o desconto.
 
-# Autora
+# 👩🏻‍🎓Autora
 
 **Emanuelly Nicolly**
