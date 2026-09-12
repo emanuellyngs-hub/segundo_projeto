@@ -38,6 +38,14 @@ Criar um programa que:
 
 O programa solicita o valor total da compra. Depois, verifica em qual faixa de preçoo valor se encontra e define o percentual de desconto e o vlaor final da compra.
 
+**EXEMPLOS:**
+- Se o usuário digitar: **R$ 250,00**
+- O programa mostrará: 
+  **RESULTADO DA COMPRA**
+  - Desconto aplicado: *10%*
+  - Valor do desconto: *R$ 25,00*
+  - Valor total a pagar: *R$ 225,00*
+
 # 🖼️Resultado
 
 O programa apresenta:
