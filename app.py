@@ -1,5 +1,5 @@
 # Sistema de Desconto Progressivo
-# Autora: Emnauelly Nicolly
+# Autora: Emanuelly Nicolly
 
 # ENTRADA
 # solicita o valor total da compra:
@@ -19,7 +19,7 @@ else:
 # calcula o valor do desconto:
 valor_desconto = valor_compra * percentual_desconto / 100
 
-# calcula o valor do desconto:
+# calcula o valor final a pagar:
 valor_final = valor_compra - valor_desconto
 
 #SAÍDA
