@@ -7,19 +7,19 @@ valor_compra = float(input("Digite o valor total da compra: R$"))
 
 # PROCESSAMENTO
 # verifica qual desconto deve ser aplicado:
-if valor_compra < 200:
+if valor_compra > 200:
     percentual_desconto = 5
 
-elif valor_compra < 300:
-    percentual_desconto = 10
-
-else:
-    percentual_desconto = 15
+else: 
+    if valor_compra < 300:
+        percentual_desconto = 10
+        else:
+            percentual_desconto = 15
 
 # calcula o valor do desconto:
 valor_desconto = valor_compra * percentual_desconto / 100
 
-# calcula o valor final da compras:
+# calcula o valor final:
 valor_final = valor_compra - valor_desconto
 
 #SAÍDA
